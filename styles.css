@@ -33,3 +33,17 @@ li a {
     font-weight: bold;
     margin-right: 25px;
 }
+
+/*Self image*/
+
+#self-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#self-image img {
+    border-radius: 100%;
+    margin-left: 150px;
+    margin-top: 25px;
+}
