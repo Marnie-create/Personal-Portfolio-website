@@ -3,6 +3,12 @@
     
 }
 
+.roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
 .navbar {
     background: black;
     font-family: calibri;
@@ -44,6 +50,16 @@ li a {
 }
 #self-image img {
     border-radius: 100%;
-    margin-left: 150px;
+    margin-left: 225px;
     margin-top: 25px;
+    height: 300px;
+
+}
+
+/*About me information container*/
+
+.information-container h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
 }
