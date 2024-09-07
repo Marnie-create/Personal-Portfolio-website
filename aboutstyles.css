@@ -28,12 +28,12 @@
     color: white;
 }
 
-li{
+.navbar-list-item {
     list-style: none;
     display: inline-block;
 }
 
-li a {
+.navbar-list-item a {
     color: white;
     font-size: 18px;
     font-weight: bold;
@@ -55,6 +55,17 @@ li a {
     height: 300px;
 
 }
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}  
 
 /*About Me body*/
  h1 {

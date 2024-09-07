@@ -28,12 +28,12 @@
     color: white;
 }
 
-li{
+.navbar-list-item {
     list-style: none;
     display: inline-block;
 }
 
-li a {
+.navbar-list-item a {
     color: white;
     font-size: 18px;
     font-weight: bold;
@@ -62,4 +62,11 @@ li a {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-style: italic;
+}
+
+/*Footer */
+
+footer img {
+    width: 25px;
+    height: 25px;
 }
